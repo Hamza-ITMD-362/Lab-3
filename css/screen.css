@@ -218,9 +218,9 @@ label {
 
 #input-submit {
   background-color:Brown;
-  margin: auto;
-  width: 95%;
-  text-align: right;
+  margin: center;
+  width: 65%;
+  text-align: center;
   display: block;
   padding: 0.1em 0;
 
