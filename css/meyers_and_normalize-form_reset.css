@@ -49,6 +49,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+h1 {
+	color: Yellow;
+}
 
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 
