@@ -192,10 +192,11 @@ img, audio, video {
 */
 
 html {
-  font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
+  font-size: 1.375em; 
+  line-height: 1.182em; 
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  background-color: Pink;
 }
 
 label {
@@ -204,15 +205,6 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
-#input-email {
-  font-family: "Lucida Console", Monospace;
-  background-color: yellow;
-  margin: auto;
-  width: 95%;
-  text-align: center;
-  display: block;
-  padding: 0.5em 0;
-}
 
 #input-age-verification {
   font-family: "Lucida Console", Monospace;
@@ -259,4 +251,13 @@ h1 {
   padding-bottom: 0.5em;
   font-family: "Verdana", Sans-Serif;
   font-size: 35px;
+}
+#input-email {
+  font-family: "Lucida Console", Monospace;
+  background-color: yellow;
+  margin: auto;
+  width: 95%;
+  text-align: center;
+  display: block;
+  padding: 0.5em 0;
 }
