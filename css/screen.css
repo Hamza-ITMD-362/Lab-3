@@ -23,7 +23,7 @@ select,
 textarea {
   font-family: sans-serif; /* 1 */
   font-size: 100%; /* 1 */
-  line-height: 1.15; /* 1 */
+  line-height: 1.11; /* 1 */
   margin: 0; /* 2 */
 }
 
@@ -102,7 +102,7 @@ fieldset {
 
 legend {
   box-sizing: border-box; /* 1 */
-  color: inherit; /* 2 */
+  color: purple; /* 2 */
   display: table; /* 1 */
   max-width: 100%; /* 1 */
   padding: 0; /* 3 */
@@ -206,7 +206,7 @@ label {
 
 #input-email {
   font-family: "Lucida Console", Monospace;
-  background-color: #F0FFFF;
+  background-color: yellow;
   margin: auto;
   width: 95%;
   text-align: center;
@@ -216,7 +216,7 @@ label {
 
 #input-age-verification {
   font-family: "Lucida Console", Monospace;
-  background-color: #FAEBD7;
+  background-color: yellow;
   margin: auto;
   width: 95%;
   text-align: center;
@@ -225,7 +225,7 @@ label {
 }
 
 #input-submit {
-  background-color: #696969;
+  background-color:Brown;
   margin: auto;
   width: 95%;
   text-align: right;
@@ -238,7 +238,7 @@ label {
   padding: 0.2em;
   font-family: "Lucida Console", Monospace;
 }
-/* ===== STATE STYLES ======= */
+
 main {
   background-color:#f0f0f0;
   padding: 1em 0;
@@ -246,7 +246,7 @@ main {
 
 p, h1 {
   text-align: center;
-  background-color: #483D8B;
+  background-color: blue;
   margin: auto;
   width: 95%
 }
