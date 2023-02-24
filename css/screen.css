@@ -226,9 +226,9 @@ label {
 
 }
 #submit {
-  margin-right: 1.5em;
+  margin-right: 0.5em;
   padding: 0.2em;
-  font-family: "Lucida Console", Monospace;
+  font-family: sans-serif;
 }
 
 main {
@@ -239,8 +239,8 @@ main {
 p, h1 {
   text-align: center;
   background-color: blue;
-  margin: auto;
-  width: 95%
+  margin: center;
+  width: 65%
 }
 p {
   padding-bottom: 1em;
