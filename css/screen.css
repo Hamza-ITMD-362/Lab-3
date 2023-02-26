@@ -219,8 +219,8 @@ label {
 #input-submit {
   background-color:Brown;
   margin: center;
-  width: 65%;
-  text-align: center;
+  width: 85%;
+  text-align: auto;
 
 }
 #submit {
@@ -238,7 +238,7 @@ p, h1 {
   text-align: center;
   background-color: blue;
   margin: center;
-  width: 65%
+  width: 85%
 }
 p {
   padding-bottom: 1em;
